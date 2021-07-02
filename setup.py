@@ -12,7 +12,7 @@ setup(
     description='Pythonic particle-based (super-droplet) cloud microphysics modelling with Jupyter examples',
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
-    install_requires=['ThrustRTC==0.3.10',
+    install_requires=['ThrustRTC==0.3.13',
                       'CURandRTC==0.1.6',
                       'numba==0.53.1',
                       'numpy>=1.20.2',
