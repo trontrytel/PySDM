@@ -13,7 +13,7 @@ setup(
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
     install_requires=['ThrustRTC==0.3.10',
-                      'CURandRTC==0.1.6',
+                      'CURandRTC==0.1.7',
                       'numba==0.53.1',
                       'numpy>=1.20.2',
                       'Pint>=0.17',
